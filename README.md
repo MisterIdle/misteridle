@@ -11,18 +11,26 @@
 </p>
 
 <div align="center">
-    <p>Main programming languages :</p>
+    <h3>Main programming languages :</h3>
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color/48/000000/golang.png"/>
 </div>
 
 <div align="center">
-    <p>Software :</p>
-    <img src="https://img.icons8.com/color/48/000000/unity.png"/>
+    <h3>Front-end :</h3>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 </div>
+
+<div align="center">
+    <h3>Software :</h3>
+    <img src="https://img.icons8.com/color/48/000000/unity.png"/>
+    <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+</div>
+
+<br>
 
 ## About Me
 
