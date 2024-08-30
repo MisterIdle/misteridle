@@ -34,7 +34,7 @@
 
 ## About Me
 
-I am MisterIdle, a 20-year-old developer, passionate about the playful creation of video games. I have a particular interest in network development, especially focusing on multiplayer and anything related to networking.
+I am MisterIdle, a 21-year-old developer, passionate about the playful creation of video games. I have a particular interest in network development, especially focusing on multiplayer and anything related to networking.
 
 Explore my creations on [Itch.io](https://misteridle.itch.io/) or visit [my website](https://misteridle.fr).
 
