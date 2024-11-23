@@ -1,47 +1,64 @@
-<div align="center">
-    <h1>👋 Hello, I'm MisterIdle</h1>
-    <p>Student at Ynov Paris 🏫</p>
-</div>
+# 👋 Hello, I'm **MisterIdle**  
+🎓 **Student at Ynov Campus** | 🕹️ **Junior Developer**
 
+---
 
-<div align="center">
-    <h3>« Main Programming languages »</h3>
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/golang.png"/>
-</div>
+## 📖 About Me  
+I’m **MisterIdle**, a 21-year-old developer passionate about creating playful and engaging video games. I have a strong interest in **network development**, particularly focusing on **multiplayer systems** and anything related to networking.
 
-<div align="center">
-    <h3>« Front-end »</h3>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <h3>« Back-end »</h3>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-</div>
-
-<div align="center">
-    <h3>« Software »</h3>
-    <img src="https://img.icons8.com/color/48/000000/unity.png"/>
-    <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-</div>
-
-<div align="center">
-    <h3>« Artificial intelligence »</h3>
-    <img src="https://img.icons8.com/color/48/000000/chatgpt.png"/>
-</div>
-
-
-## About Me
-
-I am MisterIdle, a 21-year-old developer, passionate about the playful creation of video games. I have a particular interest in network development, especially focusing on multiplayer and anything related to networking.
-
-Explore my creations on [Itch.io](https://misteridle.itch.io/) or visit [my website](https://misteridle.fr).
-
-[![Itch.io](https://img.shields.io/badge/Itch.io-Discover%20My%20Games-yellow?style=for-the-badge&logo=itch.io)](https://misteridle.itch.io/)
-
-
+[![Itch.io](https://img.shields.io/badge/Itch.io-Discover%20My%20Games-yellow?style=for-the-badge&logo=itch.io)](https://misteridle.itch.io/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=html5)](https://misteridle.fr)
 
+---
 
-<img src="https://komarev.com/ghpvc/?username=MisterIdle&style=for-the-badge" alt="Profile Views">
+## 🚀 Main Programming Languages  
+<p align="center">
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+    <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+</p>
+
+---
+
+## 🌐 Web Development  
+<p align="center">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+</p>
+
+---
+
+## 🎮 Game Programming  
+<p align="center">
+    <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity"/>
+</p>
+
+---
+
+## 💻 Software  
+<p align="center">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio"/>
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+</p>
+
+---
+
+## 🤖 Artificial Intelligence  
+<p align="center">
+    <img src="https://img.icons8.com/color/48/000000/chatgpt.png" alt="ChatGPT"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterIdle&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
+
+---
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=MisterIdle&style=for-the-badge" alt="Profile Views"/>
+</p>
