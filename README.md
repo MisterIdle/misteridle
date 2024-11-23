@@ -4,61 +4,75 @@
 ---
 
 ## 📖 About Me  
-I’m **MisterIdle**, a 21-year-old developer passionate about creating playful and engaging video games. I have a strong interest in **network development**, particularly focusing on **multiplayer systems** and anything related to networking.
+I’m **MisterIdle**, a 21-year-old developer passionate about creating engaging video games. My main focus is on **network development**, especially **multiplayer systems**.  
 
 [![Itch.io](https://img.shields.io/badge/Itch.io-Discover%20My%20Games-yellow?style=for-the-badge&logo=itch.io)](https://misteridle.itch.io/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=html5)](https://misteridle.fr)
 
 ---
 
-## 🚀 Main Programming Languages  
-<p align="center">
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-    <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go"/>
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-</p>
+## 🚀 Main Skills  
+**Programming Languages:**  
+<div style="display: flex; gap: 15px;">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" style="width: 48px; height: 48px;">
+  </a>
+  <a href="https://www.java.com/en/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" style="width: 48px; height: 48px;">
+  </a>
+  <a href="https://golang.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/golang.png" style="width: 48px; height: 48px;">
+  </a>
+  <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/python.png" style="width: 48px; height: 48px;">
+  </a>
+</div>
 
----
-
-## 🌐 Web Development  
-<p align="center">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-</p>
+**Web Development:**  
+<div style="display: flex; gap: 15px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" style="width: 48px; height: 48px;">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" style="width: 48px; height: 48px;">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" style="width: 48px; height: 48px;">
+  </a>
+</div>
 
 ---
 
 ## 🎮 Game Programming  
-<p align="center">
-    <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity"/>
-</p>
+<div style="display: flex; gap: 15px;">
+  <a href="https://unity.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/unity.png" style="width: 48px; height: 48px;">
+  </a>
+  <a href="https://godotengine.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" style="width: 48px; height: 48px;">
+  </a>
+  <a href="https://www.aseprite.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios/48/ffffff/aseprite.png" style="width: 48px; height: 48px;">
+  </a>
+</div>
 
 ---
 
-## 💻 Software  
-<p align="center">
-    <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio"/>
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
-</p>
-
----
-
-## 🤖 Artificial Intelligence  
-<p align="center">
-    <img src="https://img.icons8.com/color/48/000000/chatgpt.png" alt="ChatGPT"/>
-</p>
+## 💻 Tools  
+<div style="display: flex; gap: 15px;">
+  <a href="https://visualstudio.microsoft.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio.png" style="width: 48px; height: 48px;">
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" style="width: 48px; height: 48px;">
+  </a>
+</div>
 
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterIdle&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterIdle&layout=compact&theme=radical)
 
 ---
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MisterIdle&style=for-the-badge" alt="Profile Views"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=MisterIdle&style=for-the-badge)
