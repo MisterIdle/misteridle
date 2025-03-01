@@ -8,8 +8,7 @@ I'm **MisterIdle**, a 21-year-old developer passionate about creating engaging v
 
 🎮 **Game Developer** | 🔩 **Addons Developer**
 
-[![Itch.io](https://img.shields.io/badge/Itch.io-Discover%20My%20Games-red?style=for-the-badge&logo=itch.io)](https://misteridle.itch.io/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=html5)](https://misteridle.fr)  
+[![Itch.io](https://img.shields.io/badge/Itch.io-Discover%20My%20Games-red?style=for-the-badge&logo=itch.io)](https://misteridle.itch.io/)
 
 ---
 
