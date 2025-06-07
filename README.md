@@ -1,4 +1,4 @@
-# 👋 Hey, I'm **MisterIdle**  
+# 👋 Salutations, I'm **MisterIdle**  
 🎓 **Student at ISART Digital** | 🕹️ **Gameplay Programmer**
 
 ---
