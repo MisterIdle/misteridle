@@ -1,12 +1,13 @@
 # 👋 Hey, I'm **MisterIdle**  
-🎓 **Student at Ynov Campus** | 🕹️ **Junior Developer**
+🎓 **Student at ISART Digital** | 🕹️ **Gameplay Programmer**
 
 ---
 
 ## 🚀 About Me  
-I'm **MisterIdle**, a 21-year-old developer passionate about creating engaging video games. My main focus is **network development**, especially **multiplayer systems**.
+I'm **MisterIdle**, a 22-year-old (17/06/2003) developer passionate about creating video games. \
+My main focus is **Local / Network Development** 🌐
 
-🎮 **Game Developer** | 🔩 **Addons Developer**
+🎮 **Game Developer** | 🔩 **Addons / Mods Developer**
 
 [![Itch.io](https://img.shields.io/badge/Itch.io-Discover%20My%20Games-red?style=for-the-badge&logo=itch.io)](https://misteridle.itch.io/)
 
@@ -40,7 +41,6 @@ I'm **MisterIdle**, a 21-year-old developer passionate about creating engaging v
 <p align="left">
   <a href="https://unity.com/"><img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity"/></a>
   <a href="https://godotengine.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="48" alt="Godot"/></a>
-  <a href="https://www.aseprite.org/"><img src="https://img.icons8.com/ios/48/ffffff/aseprite.png" alt="Aseprite"/></a>
 </p>
 
 ## 🛠️ **Tools & IDEs**  
