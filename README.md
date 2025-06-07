@@ -1,6 +1,8 @@
 # 👋 Salutations, I'm **MisterIdle**  
 🎓 **Student at ISART Digital** | 🕹️ **Gameplay Programmer**
 
+Développeur Français 🟦⬜🟥
+
 ---
 
 ## 🚀 About Me  
