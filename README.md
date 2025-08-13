@@ -51,6 +51,12 @@ My main focus is **Local / Network Development** 🌐
   <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/></a>
 </p>
 
+## ⚙️ **Modding**  
+<p align="left">
+  <a href="https://mcreator.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/MCreator_Icon.png" width="48" alt="MCreator"/></a>
+  <a href="https://neoforged.net/"><img src="https://minecraft.wiki/images/NeoForge_logo.png?9d3b7" width="48" alt="NeoForge"/></a>
+</p>
+
 ---
 
 ## 📊 GitHub Stats  
