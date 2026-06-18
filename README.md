@@ -6,7 +6,7 @@ Développeur Français 🟦⬜🟥
 ---
 
 ## 🚀 About Me  
-I'm **MisterIdle**, a 22-year-old (17/06/2003) developer passionate about creating video games. \
+I'm **MisterIdle**, a 23-year-old (17/06/2003) developer passionate about creating video games. \
 My main focus is **Local / Network Development** 🌐
 
 🎮 **Game Developer** | 🔩 **Addons / Mods Developer**
