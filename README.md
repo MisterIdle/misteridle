@@ -1,4 +1,4 @@
-# 👋 Salutations, bienvenue sur mon profile 
+# 👋 Salutations
 
 ## 🚀 About Me 
 I'm **MisterIdle**, <!-- START_AGE -->23<!-- END_AGE --> spring to my credit
