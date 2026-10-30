@@ -1,7 +1,8 @@
 # 👋 Salutations, bienvenue sur mon profile 
 
-## 🚀 About Me  
+## 🚀 About Me 
 I'm **MisterIdle**, <!-- START_AGE -->23<!-- END_AGE --> spring to my credit
+
 Développeur Français 🟦⬜🟥
 
 **Student at ISART Digital in Game Design & Programming** 🎮
