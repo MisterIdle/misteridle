@@ -18,18 +18,14 @@ My main focus is **Local / Network Development** 🌐
 ## 📌 **Programming Languages**  
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/></a>
-  <a href="https://www.java.com/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/></a>
-  <a href="https://go.dev/"><img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go"/></a>
   <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a>
 </p>
-
 
 ## 🌐 **Web Development**  
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a>
-  <a href="https://www.php.net/"><img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/></a>
 </p>
 
 ## 📚 **Data**  
@@ -49,12 +45,6 @@ My main focus is **Local / Network Development** 🌐
 <p align="left">
   <a href="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/></a>
-</p>
-
-## ⚙️ **Modding**  
-<p align="left">
-  <a href="https://mcreator.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/MCreator_Icon.png" width="48" alt="MCreator"/></a>
-  <a href="https://neoforged.net/"><img src="https://minecraft.wiki/images/NeoForge_logo.png?9d3b7" width="48" alt="NeoForge"/></a>
 </p>
 
 ---
