@@ -44,7 +44,7 @@ Développeur Français 🟦⬜🟥
 
 ## 📊 GitHub Stats  
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MisterIdle&langs_count=20&theme=dark" alt="Top Langs"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MisterIdle&layout=pie&hide_title=true&langs_count=10&theme=dark_github" alt="Top Langs"/>
 </p>
 
 ---
